@@ -4,8 +4,7 @@
 
 ## Project Preview
 
-<img width="990" height="846" alt="Wutang" src="https://github.com/user-attachments/assets/51d474d5-daee-4a91-8b3f-cbccdf6589a4" />
-
+<img width="1115" height="907" alt="Screenshot 2026-10-05 at 3 20 04 PM" src="https://github.com/user-attachments/assets/37514dee-29f6-448d-a49a-f4de71dd3dd1" />
 
 # Wu-Tang of Westeros
 
